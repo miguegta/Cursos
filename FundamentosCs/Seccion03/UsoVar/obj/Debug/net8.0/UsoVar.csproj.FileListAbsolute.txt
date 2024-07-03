@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\UsoVar\bin\Debug\net8.0\UsoVar.exe
+C:\Users\Migue\source\repos\Seccion03\UsoVar\bin\Debug\net8.0\UsoVar.deps.json
+C:\Users\Migue\source\repos\Seccion03\UsoVar\bin\Debug\net8.0\UsoVar.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\UsoVar\bin\Debug\net8.0\UsoVar.dll
+C:\Users\Migue\source\repos\Seccion03\UsoVar\bin\Debug\net8.0\UsoVar.pdb
+C:\Users\Migue\source\repos\Seccion03\UsoVar\obj\Debug\net8.0\UsoVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\UsoVar\obj\Debug\net8.0\UsoVar.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\UsoVar\obj\Debug\net8.0\UsoVar.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\UsoVar\obj\Debug\net8.0\UsoVar.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\UsoVar\obj\Debug\net8.0\UsoVar.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\UsoVar\obj\Debug\net8.0\UsoVar.dll
+C:\Users\Migue\source\repos\Seccion03\UsoVar\obj\Debug\net8.0\refint\UsoVar.dll
+C:\Users\Migue\source\repos\Seccion03\UsoVar\obj\Debug\net8.0\UsoVar.pdb
+C:\Users\Migue\source\repos\Seccion03\UsoVar\obj\Debug\net8.0\UsoVar.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\UsoVar\obj\Debug\net8.0\ref\UsoVar.dll

@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\bin\Debug\net7.0\VariablesTexto.exe
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\bin\Debug\net7.0\VariablesTexto.deps.json
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\bin\Debug\net7.0\VariablesTexto.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\bin\Debug\net7.0\VariablesTexto.dll
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\bin\Debug\net7.0\VariablesTexto.pdb
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\obj\Debug\net7.0\VariablesTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\obj\Debug\net7.0\VariablesTexto.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\obj\Debug\net7.0\VariablesTexto.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\obj\Debug\net7.0\VariablesTexto.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\obj\Debug\net7.0\VariablesTexto.dll
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\obj\Debug\net7.0\refint\VariablesTexto.dll
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\obj\Debug\net7.0\VariablesTexto.pdb
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\obj\Debug\net7.0\VariablesTexto.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\obj\Debug\net7.0\ref\VariablesTexto.dll
+C:\Users\Migue\source\repos\Seccion03\VariablesTexto\obj\Debug\net7.0\VariablesTexto.sourcelink.json

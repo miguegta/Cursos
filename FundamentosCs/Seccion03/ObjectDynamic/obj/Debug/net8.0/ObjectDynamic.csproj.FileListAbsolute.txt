@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\bin\Debug\net8.0\ObjectDynamic.exe
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\bin\Debug\net8.0\ObjectDynamic.deps.json
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\bin\Debug\net8.0\ObjectDynamic.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\bin\Debug\net8.0\ObjectDynamic.dll
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\bin\Debug\net8.0\ObjectDynamic.pdb
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\obj\Debug\net8.0\ObjectDynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\obj\Debug\net8.0\ObjectDynamic.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\obj\Debug\net8.0\ObjectDynamic.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\obj\Debug\net8.0\ObjectDynamic.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\obj\Debug\net8.0\ObjectDynamic.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\obj\Debug\net8.0\ObjectDynamic.dll
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\obj\Debug\net8.0\refint\ObjectDynamic.dll
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\obj\Debug\net8.0\ObjectDynamic.pdb
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\obj\Debug\net8.0\ObjectDynamic.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\ObjectDynamic\obj\Debug\net8.0\ref\ObjectDynamic.dll

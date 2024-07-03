@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\bin\Debug\net8.0\NumerosReales.exe
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\bin\Debug\net8.0\NumerosReales.deps.json
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\bin\Debug\net8.0\NumerosReales.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\bin\Debug\net8.0\NumerosReales.dll
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\bin\Debug\net8.0\NumerosReales.pdb
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\obj\Debug\net8.0\NumerosReales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\obj\Debug\net8.0\NumerosReales.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\obj\Debug\net8.0\NumerosReales.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\obj\Debug\net8.0\NumerosReales.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\obj\Debug\net8.0\NumerosReales.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\obj\Debug\net8.0\NumerosReales.dll
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\obj\Debug\net8.0\refint\NumerosReales.dll
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\obj\Debug\net8.0\NumerosReales.pdb
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\obj\Debug\net8.0\NumerosReales.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\NumerosReales\obj\Debug\net8.0\ref\NumerosReales.dll

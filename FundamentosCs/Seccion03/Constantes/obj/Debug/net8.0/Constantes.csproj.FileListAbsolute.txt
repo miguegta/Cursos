@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\Constantes\bin\Debug\net8.0\Constantes.exe
+C:\Users\Migue\source\repos\Seccion03\Constantes\bin\Debug\net8.0\Constantes.deps.json
+C:\Users\Migue\source\repos\Seccion03\Constantes\bin\Debug\net8.0\Constantes.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\Constantes\bin\Debug\net8.0\Constantes.dll
+C:\Users\Migue\source\repos\Seccion03\Constantes\bin\Debug\net8.0\Constantes.pdb
+C:\Users\Migue\source\repos\Seccion03\Constantes\obj\Debug\net8.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\Constantes\obj\Debug\net8.0\Constantes.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Constantes\obj\Debug\net8.0\Constantes.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\Constantes\obj\Debug\net8.0\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Constantes\obj\Debug\net8.0\Constantes.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\Constantes\obj\Debug\net8.0\Constantes.dll
+C:\Users\Migue\source\repos\Seccion03\Constantes\obj\Debug\net8.0\refint\Constantes.dll
+C:\Users\Migue\source\repos\Seccion03\Constantes\obj\Debug\net8.0\Constantes.pdb
+C:\Users\Migue\source\repos\Seccion03\Constantes\obj\Debug\net8.0\Constantes.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\Constantes\obj\Debug\net8.0\ref\Constantes.dll

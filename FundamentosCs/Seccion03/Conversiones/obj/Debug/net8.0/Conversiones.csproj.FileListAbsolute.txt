@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\Conversiones\bin\Debug\net8.0\Conversiones.exe
+C:\Users\Migue\source\repos\Seccion03\Conversiones\bin\Debug\net8.0\Conversiones.deps.json
+C:\Users\Migue\source\repos\Seccion03\Conversiones\bin\Debug\net8.0\Conversiones.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\Conversiones\bin\Debug\net8.0\Conversiones.dll
+C:\Users\Migue\source\repos\Seccion03\Conversiones\bin\Debug\net8.0\Conversiones.pdb
+C:\Users\Migue\source\repos\Seccion03\Conversiones\obj\Debug\net8.0\Conversiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\Conversiones\obj\Debug\net8.0\Conversiones.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Conversiones\obj\Debug\net8.0\Conversiones.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\Conversiones\obj\Debug\net8.0\Conversiones.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Conversiones\obj\Debug\net8.0\Conversiones.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\Conversiones\obj\Debug\net8.0\Conversiones.dll
+C:\Users\Migue\source\repos\Seccion03\Conversiones\obj\Debug\net8.0\refint\Conversiones.dll
+C:\Users\Migue\source\repos\Seccion03\Conversiones\obj\Debug\net8.0\Conversiones.pdb
+C:\Users\Migue\source\repos\Seccion03\Conversiones\obj\Debug\net8.0\Conversiones.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\Conversiones\obj\Debug\net8.0\ref\Conversiones.dll

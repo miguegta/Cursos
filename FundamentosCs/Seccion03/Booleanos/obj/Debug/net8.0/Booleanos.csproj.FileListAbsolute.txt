@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\Booleanos\bin\Debug\net8.0\Booleanos.exe
+C:\Users\Migue\source\repos\Seccion03\Booleanos\bin\Debug\net8.0\Booleanos.deps.json
+C:\Users\Migue\source\repos\Seccion03\Booleanos\bin\Debug\net8.0\Booleanos.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\Booleanos\bin\Debug\net8.0\Booleanos.dll
+C:\Users\Migue\source\repos\Seccion03\Booleanos\bin\Debug\net8.0\Booleanos.pdb
+C:\Users\Migue\source\repos\Seccion03\Booleanos\obj\Debug\net8.0\Booleanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\Booleanos\obj\Debug\net8.0\Booleanos.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Booleanos\obj\Debug\net8.0\Booleanos.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\Booleanos\obj\Debug\net8.0\Booleanos.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Booleanos\obj\Debug\net8.0\Booleanos.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\Booleanos\obj\Debug\net8.0\Booleanos.dll
+C:\Users\Migue\source\repos\Seccion03\Booleanos\obj\Debug\net8.0\refint\Booleanos.dll
+C:\Users\Migue\source\repos\Seccion03\Booleanos\obj\Debug\net8.0\Booleanos.pdb
+C:\Users\Migue\source\repos\Seccion03\Booleanos\obj\Debug\net8.0\Booleanos.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\Booleanos\obj\Debug\net8.0\ref\Booleanos.dll

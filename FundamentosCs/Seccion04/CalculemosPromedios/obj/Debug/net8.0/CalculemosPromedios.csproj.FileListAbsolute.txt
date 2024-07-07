@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\bin\Debug\net8.0\CalculemosPromedios.exe
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\bin\Debug\net8.0\CalculemosPromedios.deps.json
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\bin\Debug\net8.0\CalculemosPromedios.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\bin\Debug\net8.0\CalculemosPromedios.dll
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\bin\Debug\net8.0\CalculemosPromedios.pdb
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\obj\Debug\net8.0\CalculemosPromedios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\obj\Debug\net8.0\CalculemosPromedios.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\obj\Debug\net8.0\CalculemosPromedios.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\obj\Debug\net8.0\CalculemosPromedios.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\obj\Debug\net8.0\CalculemosPromedios.sourcelink.json
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\obj\Debug\net8.0\CalculemosPromedios.dll
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\obj\Debug\net8.0\refint\CalculemosPromedios.dll
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\obj\Debug\net8.0\CalculemosPromedios.pdb
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\obj\Debug\net8.0\CalculemosPromedios.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion04\CalculemosPromedios\obj\Debug\net8.0\ref\CalculemosPromedios.dll

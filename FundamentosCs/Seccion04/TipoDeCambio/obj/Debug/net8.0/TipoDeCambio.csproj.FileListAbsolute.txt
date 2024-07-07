@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\bin\Debug\net8.0\TipoDeCambio.exe
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\bin\Debug\net8.0\TipoDeCambio.deps.json
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\bin\Debug\net8.0\TipoDeCambio.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\bin\Debug\net8.0\TipoDeCambio.dll
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\bin\Debug\net8.0\TipoDeCambio.pdb
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\obj\Debug\net8.0\TipoDeCambio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\obj\Debug\net8.0\TipoDeCambio.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\obj\Debug\net8.0\TipoDeCambio.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\obj\Debug\net8.0\TipoDeCambio.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\obj\Debug\net8.0\TipoDeCambio.sourcelink.json
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\obj\Debug\net8.0\TipoDeCambio.dll
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\obj\Debug\net8.0\refint\TipoDeCambio.dll
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\obj\Debug\net8.0\TipoDeCambio.pdb
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\obj\Debug\net8.0\TipoDeCambio.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion04\TipoDeCambio\obj\Debug\net8.0\ref\TipoDeCambio.dll

@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\bin\Debug\net8.0\UsoReadLine.exe
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\bin\Debug\net8.0\UsoReadLine.deps.json
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\bin\Debug\net8.0\UsoReadLine.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\bin\Debug\net8.0\UsoReadLine.dll
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\bin\Debug\net8.0\UsoReadLine.pdb
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\obj\Debug\net8.0\UsoReadLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\obj\Debug\net8.0\UsoReadLine.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\obj\Debug\net8.0\UsoReadLine.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\obj\Debug\net8.0\UsoReadLine.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\obj\Debug\net8.0\UsoReadLine.sourcelink.json
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\obj\Debug\net8.0\UsoReadLine.dll
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\obj\Debug\net8.0\refint\UsoReadLine.dll
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\obj\Debug\net8.0\UsoReadLine.pdb
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\obj\Debug\net8.0\UsoReadLine.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion04\UsoReadLine\obj\Debug\net8.0\ref\UsoReadLine.dll

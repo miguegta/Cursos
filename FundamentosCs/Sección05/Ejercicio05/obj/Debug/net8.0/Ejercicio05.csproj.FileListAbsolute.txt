@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\bin\Debug\net8.0\Ejercicio05.exe
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\bin\Debug\net8.0\Ejercicio05.deps.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\bin\Debug\net8.0\Ejercicio05.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\bin\Debug\net8.0\Ejercicio05.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\bin\Debug\net8.0\Ejercicio05.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\obj\Debug\net8.0\Ejercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\obj\Debug\net8.0\Ejercicio05.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\obj\Debug\net8.0\Ejercicio05.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\obj\Debug\net8.0\Ejercicio05.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\obj\Debug\net8.0\Ejercicio05.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\obj\Debug\net8.0\Ejercicio05.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\obj\Debug\net8.0\refint\Ejercicio05.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\obj\Debug\net8.0\Ejercicio05.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\obj\Debug\net8.0\Ejercicio05.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\Ejercicio05\obj\Debug\net8.0\ref\Ejercicio05.dll

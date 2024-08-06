@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\bin\Debug\net8.0\PatternMatching.exe
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\bin\Debug\net8.0\PatternMatching.deps.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\bin\Debug\net8.0\PatternMatching.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\bin\Debug\net8.0\PatternMatching.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\bin\Debug\net8.0\PatternMatching.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\obj\Debug\net8.0\PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\obj\Debug\net8.0\PatternMatching.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\obj\Debug\net8.0\PatternMatching.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\obj\Debug\net8.0\PatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\obj\Debug\net8.0\PatternMatching.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\obj\Debug\net8.0\PatternMatching.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\obj\Debug\net8.0\refint\PatternMatching.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\obj\Debug\net8.0\PatternMatching.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\obj\Debug\net8.0\PatternMatching.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\PatternMatching\obj\Debug\net8.0\ref\PatternMatching.dll

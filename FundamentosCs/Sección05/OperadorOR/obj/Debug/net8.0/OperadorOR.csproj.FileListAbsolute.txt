@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\bin\Debug\net8.0\OperadorOR.exe
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\bin\Debug\net8.0\OperadorOR.deps.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\bin\Debug\net8.0\OperadorOR.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\bin\Debug\net8.0\OperadorOR.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\bin\Debug\net8.0\OperadorOR.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\obj\Debug\net8.0\OperadorOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\obj\Debug\net8.0\OperadorOR.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\obj\Debug\net8.0\OperadorOR.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\obj\Debug\net8.0\OperadorOR.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\obj\Debug\net8.0\OperadorOR.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\obj\Debug\net8.0\OperadorOR.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\obj\Debug\net8.0\refint\OperadorOR.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\obj\Debug\net8.0\OperadorOR.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\obj\Debug\net8.0\OperadorOR.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorOR\obj\Debug\net8.0\ref\OperadorOR.dll

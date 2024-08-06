@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\bin\Debug\net8.0\CalcularDescuento.exe
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\bin\Debug\net8.0\CalcularDescuento.deps.json
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\bin\Debug\net8.0\CalcularDescuento.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\bin\Debug\net8.0\CalcularDescuento.dll
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\bin\Debug\net8.0\CalcularDescuento.pdb
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\obj\Debug\net8.0\CalcularDescuento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\obj\Debug\net8.0\CalcularDescuento.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\obj\Debug\net8.0\CalcularDescuento.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\obj\Debug\net8.0\CalcularDescuento.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\obj\Debug\net8.0\CalcularDescuento.sourcelink.json
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\obj\Debug\net8.0\CalcularDescuento.dll
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\obj\Debug\net8.0\refint\CalcularDescuento.dll
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\obj\Debug\net8.0\CalcularDescuento.pdb
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\obj\Debug\net8.0\CalcularDescuento.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion05\CalcularDescuento\obj\Debug\net8.0\ref\CalcularDescuento.dll

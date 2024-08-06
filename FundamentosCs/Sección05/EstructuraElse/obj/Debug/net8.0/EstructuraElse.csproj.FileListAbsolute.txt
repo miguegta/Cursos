@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\bin\Debug\net8.0\EstructuraElse.exe
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\bin\Debug\net8.0\EstructuraElse.deps.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\bin\Debug\net8.0\EstructuraElse.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\bin\Debug\net8.0\EstructuraElse.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\bin\Debug\net8.0\EstructuraElse.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\obj\Debug\net8.0\EstructuraElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\obj\Debug\net8.0\EstructuraElse.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\obj\Debug\net8.0\EstructuraElse.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\obj\Debug\net8.0\EstructuraElse.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\obj\Debug\net8.0\EstructuraElse.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\obj\Debug\net8.0\EstructuraElse.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\obj\Debug\net8.0\refint\EstructuraElse.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\obj\Debug\net8.0\EstructuraElse.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\obj\Debug\net8.0\EstructuraElse.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\EstructuraElse\obj\Debug\net8.0\ref\EstructuraElse.dll

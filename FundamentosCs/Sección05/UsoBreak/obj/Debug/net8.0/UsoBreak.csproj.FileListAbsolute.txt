@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\bin\Debug\net8.0\UsoBreak.exe
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\bin\Debug\net8.0\UsoBreak.deps.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\bin\Debug\net8.0\UsoBreak.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\bin\Debug\net8.0\UsoBreak.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\bin\Debug\net8.0\UsoBreak.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\obj\Debug\net8.0\UsoBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\obj\Debug\net8.0\UsoBreak.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\obj\Debug\net8.0\UsoBreak.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\obj\Debug\net8.0\UsoBreak.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\obj\Debug\net8.0\UsoBreak.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\obj\Debug\net8.0\UsoBreak.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\obj\Debug\net8.0\refint\UsoBreak.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\obj\Debug\net8.0\UsoBreak.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\obj\Debug\net8.0\UsoBreak.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoBreak\obj\Debug\net8.0\ref\UsoBreak.dll

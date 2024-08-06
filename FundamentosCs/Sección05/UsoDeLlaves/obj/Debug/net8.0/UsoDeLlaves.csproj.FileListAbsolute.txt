@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\bin\Debug\net8.0\UsoDeLlaves.exe
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\bin\Debug\net8.0\UsoDeLlaves.deps.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\bin\Debug\net8.0\UsoDeLlaves.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\bin\Debug\net8.0\UsoDeLlaves.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\bin\Debug\net8.0\UsoDeLlaves.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\obj\Debug\net8.0\UsoDeLlaves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\obj\Debug\net8.0\UsoDeLlaves.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\obj\Debug\net8.0\UsoDeLlaves.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\obj\Debug\net8.0\UsoDeLlaves.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\obj\Debug\net8.0\UsoDeLlaves.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\obj\Debug\net8.0\UsoDeLlaves.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\obj\Debug\net8.0\refint\UsoDeLlaves.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\obj\Debug\net8.0\UsoDeLlaves.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\obj\Debug\net8.0\UsoDeLlaves.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\UsoDeLlaves\obj\Debug\net8.0\ref\UsoDeLlaves.dll

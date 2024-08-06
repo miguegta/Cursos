@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\bin\Debug\net8.0\SwitchExpresions.exe
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\bin\Debug\net8.0\SwitchExpresions.deps.json
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\bin\Debug\net8.0\SwitchExpresions.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\bin\Debug\net8.0\SwitchExpresions.dll
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\bin\Debug\net8.0\SwitchExpresions.pdb
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\obj\Debug\net8.0\SwitchExpresions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\obj\Debug\net8.0\SwitchExpresions.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\obj\Debug\net8.0\SwitchExpresions.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\obj\Debug\net8.0\SwitchExpresions.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\obj\Debug\net8.0\SwitchExpresions.sourcelink.json
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\obj\Debug\net8.0\SwitchExpresions.dll
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\obj\Debug\net8.0\refint\SwitchExpresions.dll
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\obj\Debug\net8.0\SwitchExpresions.pdb
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\obj\Debug\net8.0\SwitchExpresions.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion05\SwitchExpresions\obj\Debug\net8.0\ref\SwitchExpresions.dll

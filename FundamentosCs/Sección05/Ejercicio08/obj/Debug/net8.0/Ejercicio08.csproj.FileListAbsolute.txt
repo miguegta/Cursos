@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\bin\Debug\net8.0\Ejercicio08.exe
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\bin\Debug\net8.0\Ejercicio08.deps.json
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\bin\Debug\net8.0\Ejercicio08.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\bin\Debug\net8.0\Ejercicio08.dll
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\bin\Debug\net8.0\Ejercicio08.pdb
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\obj\Debug\net8.0\Ejercicio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\obj\Debug\net8.0\Ejercicio08.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\obj\Debug\net8.0\Ejercicio08.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\obj\Debug\net8.0\Ejercicio08.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\obj\Debug\net8.0\Ejercicio08.sourcelink.json
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\obj\Debug\net8.0\Ejercicio08.dll
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\obj\Debug\net8.0\refint\Ejercicio08.dll
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\obj\Debug\net8.0\Ejercicio08.pdb
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\obj\Debug\net8.0\Ejercicio08.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion05\Ejercicio08\obj\Debug\net8.0\ref\Ejercicio08.dll

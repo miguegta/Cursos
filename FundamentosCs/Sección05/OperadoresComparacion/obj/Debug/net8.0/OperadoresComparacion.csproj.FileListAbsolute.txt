@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\bin\Debug\net8.0\OperadoresComparacion.exe
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\bin\Debug\net8.0\OperadoresComparacion.deps.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\bin\Debug\net8.0\OperadoresComparacion.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\bin\Debug\net8.0\OperadoresComparacion.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\bin\Debug\net8.0\OperadoresComparacion.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\obj\Debug\net8.0\OperadoresComparacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\obj\Debug\net8.0\OperadoresComparacion.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\obj\Debug\net8.0\OperadoresComparacion.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\obj\Debug\net8.0\OperadoresComparacion.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\obj\Debug\net8.0\OperadoresComparacion.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\obj\Debug\net8.0\OperadoresComparacion.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\obj\Debug\net8.0\refint\OperadoresComparacion.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\obj\Debug\net8.0\OperadoresComparacion.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\obj\Debug\net8.0\OperadoresComparacion.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadoresComparacion\obj\Debug\net8.0\ref\OperadoresComparacion.dll

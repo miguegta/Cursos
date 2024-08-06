@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\bin\Debug\net8.0\OperadorNOT.exe
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\bin\Debug\net8.0\OperadorNOT.deps.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\bin\Debug\net8.0\OperadorNOT.runtimeconfig.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\bin\Debug\net8.0\OperadorNOT.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\bin\Debug\net8.0\OperadorNOT.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\obj\Debug\net8.0\OperadorNOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\obj\Debug\net8.0\OperadorNOT.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\obj\Debug\net8.0\OperadorNOT.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\obj\Debug\net8.0\OperadorNOT.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\obj\Debug\net8.0\OperadorNOT.sourcelink.json
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\obj\Debug\net8.0\OperadorNOT.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\obj\Debug\net8.0\refint\OperadorNOT.dll
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\obj\Debug\net8.0\OperadorNOT.pdb
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\obj\Debug\net8.0\OperadorNOT.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Seccion03\Seccion05\OperadorNOT\obj\Debug\net8.0\ref\OperadorNOT.dll

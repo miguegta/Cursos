@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección06\CicloWhile\bin\Debug\net8.0\CicloWhile.exe
+C:\Users\Migue\source\repos\Sección06\CicloWhile\bin\Debug\net8.0\CicloWhile.deps.json
+C:\Users\Migue\source\repos\Sección06\CicloWhile\bin\Debug\net8.0\CicloWhile.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección06\CicloWhile\bin\Debug\net8.0\CicloWhile.dll
+C:\Users\Migue\source\repos\Sección06\CicloWhile\bin\Debug\net8.0\CicloWhile.pdb
+C:\Users\Migue\source\repos\Sección06\CicloWhile\obj\Debug\net8.0\CicloWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección06\CicloWhile\obj\Debug\net8.0\CicloWhile.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección06\CicloWhile\obj\Debug\net8.0\CicloWhile.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección06\CicloWhile\obj\Debug\net8.0\CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección06\CicloWhile\obj\Debug\net8.0\CicloWhile.sourcelink.json
+C:\Users\Migue\source\repos\Sección06\CicloWhile\obj\Debug\net8.0\CicloWhile.dll
+C:\Users\Migue\source\repos\Sección06\CicloWhile\obj\Debug\net8.0\refint\CicloWhile.dll
+C:\Users\Migue\source\repos\Sección06\CicloWhile\obj\Debug\net8.0\CicloWhile.pdb
+C:\Users\Migue\source\repos\Sección06\CicloWhile\obj\Debug\net8.0\CicloWhile.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección06\CicloWhile\obj\Debug\net8.0\ref\CicloWhile.dll

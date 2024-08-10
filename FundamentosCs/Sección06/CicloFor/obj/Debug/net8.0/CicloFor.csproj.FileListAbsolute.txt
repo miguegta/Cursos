@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección06\CicloFor\bin\Debug\net8.0\CicloFor.exe
+C:\Users\Migue\source\repos\Sección06\CicloFor\bin\Debug\net8.0\CicloFor.deps.json
+C:\Users\Migue\source\repos\Sección06\CicloFor\bin\Debug\net8.0\CicloFor.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección06\CicloFor\bin\Debug\net8.0\CicloFor.dll
+C:\Users\Migue\source\repos\Sección06\CicloFor\bin\Debug\net8.0\CicloFor.pdb
+C:\Users\Migue\source\repos\Sección06\CicloFor\obj\Debug\net8.0\CicloFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección06\CicloFor\obj\Debug\net8.0\CicloFor.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección06\CicloFor\obj\Debug\net8.0\CicloFor.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección06\CicloFor\obj\Debug\net8.0\CicloFor.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección06\CicloFor\obj\Debug\net8.0\CicloFor.sourcelink.json
+C:\Users\Migue\source\repos\Sección06\CicloFor\obj\Debug\net8.0\CicloFor.dll
+C:\Users\Migue\source\repos\Sección06\CicloFor\obj\Debug\net8.0\refint\CicloFor.dll
+C:\Users\Migue\source\repos\Sección06\CicloFor\obj\Debug\net8.0\CicloFor.pdb
+C:\Users\Migue\source\repos\Sección06\CicloFor\obj\Debug\net8.0\CicloFor.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección06\CicloFor\obj\Debug\net8.0\ref\CicloFor.dll

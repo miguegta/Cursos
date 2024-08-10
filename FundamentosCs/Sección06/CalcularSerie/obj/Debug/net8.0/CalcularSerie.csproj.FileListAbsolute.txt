@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\bin\Debug\net8.0\CalcularSerie.exe
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\bin\Debug\net8.0\CalcularSerie.deps.json
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\bin\Debug\net8.0\CalcularSerie.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\bin\Debug\net8.0\CalcularSerie.dll
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\bin\Debug\net8.0\CalcularSerie.pdb
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\obj\Debug\net8.0\CalcularSerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\obj\Debug\net8.0\CalcularSerie.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\obj\Debug\net8.0\CalcularSerie.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\obj\Debug\net8.0\CalcularSerie.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\obj\Debug\net8.0\CalcularSerie.sourcelink.json
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\obj\Debug\net8.0\CalcularSerie.dll
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\obj\Debug\net8.0\refint\CalcularSerie.dll
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\obj\Debug\net8.0\CalcularSerie.pdb
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\obj\Debug\net8.0\CalcularSerie.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección06\CalcularSerie\obj\Debug\net8.0\ref\CalcularSerie.dll

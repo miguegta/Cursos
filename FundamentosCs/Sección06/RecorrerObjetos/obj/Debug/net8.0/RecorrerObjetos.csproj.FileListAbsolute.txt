@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\bin\Debug\net8.0\RecorrerObjetos.exe
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\bin\Debug\net8.0\RecorrerObjetos.deps.json
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\bin\Debug\net8.0\RecorrerObjetos.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\bin\Debug\net8.0\RecorrerObjetos.dll
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\bin\Debug\net8.0\RecorrerObjetos.pdb
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\obj\Debug\net8.0\RecorrerObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\obj\Debug\net8.0\RecorrerObjetos.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\obj\Debug\net8.0\RecorrerObjetos.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\obj\Debug\net8.0\RecorrerObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\obj\Debug\net8.0\RecorrerObjetos.sourcelink.json
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\obj\Debug\net8.0\RecorrerObjetos.dll
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\obj\Debug\net8.0\refint\RecorrerObjetos.dll
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\obj\Debug\net8.0\RecorrerObjetos.pdb
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\obj\Debug\net8.0\RecorrerObjetos.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección06\RecorrerObjetos\obj\Debug\net8.0\ref\RecorrerObjetos.dll

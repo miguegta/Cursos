@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\bin\Debug\net8.0\EjercicioPropuesto06.exe
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\bin\Debug\net8.0\EjercicioPropuesto06.deps.json
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\bin\Debug\net8.0\EjercicioPropuesto06.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\bin\Debug\net8.0\EjercicioPropuesto06.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\bin\Debug\net8.0\EjercicioPropuesto06.pdb
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\obj\Debug\net8.0\EjercicioPropuesto06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\obj\Debug\net8.0\EjercicioPropuesto06.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\obj\Debug\net8.0\EjercicioPropuesto06.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\obj\Debug\net8.0\EjercicioPropuesto06.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\obj\Debug\net8.0\EjercicioPropuesto06.sourcelink.json
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\obj\Debug\net8.0\EjercicioPropuesto06.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\obj\Debug\net8.0\refint\EjercicioPropuesto06.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\obj\Debug\net8.0\EjercicioPropuesto06.pdb
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\obj\Debug\net8.0\EjercicioPropuesto06.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioPropuesto06\obj\Debug\net8.0\ref\EjercicioPropuesto06.dll

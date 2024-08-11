@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\bin\Debug\net8.0\EjercicioCalcularPrecios.exe
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\bin\Debug\net8.0\EjercicioCalcularPrecios.deps.json
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\bin\Debug\net8.0\EjercicioCalcularPrecios.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\bin\Debug\net8.0\EjercicioCalcularPrecios.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\bin\Debug\net8.0\EjercicioCalcularPrecios.pdb
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\obj\Debug\net8.0\EjercicioCalcularPrecios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\obj\Debug\net8.0\EjercicioCalcularPrecios.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\obj\Debug\net8.0\EjercicioCalcularPrecios.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\obj\Debug\net8.0\EjercicioCalcularPrecios.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\obj\Debug\net8.0\EjercicioCalcularPrecios.sourcelink.json
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\obj\Debug\net8.0\EjercicioCalcularPrecios.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\obj\Debug\net8.0\refint\EjercicioCalcularPrecios.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\obj\Debug\net8.0\EjercicioCalcularPrecios.pdb
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\obj\Debug\net8.0\EjercicioCalcularPrecios.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioCalcularPrecios\obj\Debug\net8.0\ref\EjercicioCalcularPrecios.dll

@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\bin\Debug\net8.0\EjercicioDoWhile.exe
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\bin\Debug\net8.0\EjercicioDoWhile.deps.json
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\bin\Debug\net8.0\EjercicioDoWhile.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\bin\Debug\net8.0\EjercicioDoWhile.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\bin\Debug\net8.0\EjercicioDoWhile.pdb
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\obj\Debug\net8.0\EjercicioDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\obj\Debug\net8.0\EjercicioDoWhile.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\obj\Debug\net8.0\EjercicioDoWhile.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\obj\Debug\net8.0\EjercicioDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\obj\Debug\net8.0\EjercicioDoWhile.sourcelink.json
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\obj\Debug\net8.0\EjercicioDoWhile.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\obj\Debug\net8.0\refint\EjercicioDoWhile.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\obj\Debug\net8.0\EjercicioDoWhile.pdb
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\obj\Debug\net8.0\EjercicioDoWhile.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioDoWhile\obj\Debug\net8.0\ref\EjercicioDoWhile.dll

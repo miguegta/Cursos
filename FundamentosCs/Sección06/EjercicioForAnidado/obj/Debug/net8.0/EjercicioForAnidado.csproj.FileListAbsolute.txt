@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\bin\Debug\net8.0\EjercicioForAnidado.exe
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\bin\Debug\net8.0\EjercicioForAnidado.deps.json
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\bin\Debug\net8.0\EjercicioForAnidado.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\bin\Debug\net8.0\EjercicioForAnidado.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\bin\Debug\net8.0\EjercicioForAnidado.pdb
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\obj\Debug\net8.0\EjercicioForAnidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\obj\Debug\net8.0\EjercicioForAnidado.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\obj\Debug\net8.0\EjercicioForAnidado.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\obj\Debug\net8.0\EjercicioForAnidado.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\obj\Debug\net8.0\EjercicioForAnidado.sourcelink.json
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\obj\Debug\net8.0\EjercicioForAnidado.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\obj\Debug\net8.0\refint\EjercicioForAnidado.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\obj\Debug\net8.0\EjercicioForAnidado.pdb
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\obj\Debug\net8.0\EjercicioForAnidado.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioForAnidado\obj\Debug\net8.0\ref\EjercicioForAnidado.dll

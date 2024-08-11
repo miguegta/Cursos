@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\bin\Debug\net8.0\EjercicioFibonacci.exe
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\bin\Debug\net8.0\EjercicioFibonacci.deps.json
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\bin\Debug\net8.0\EjercicioFibonacci.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\bin\Debug\net8.0\EjercicioFibonacci.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\bin\Debug\net8.0\EjercicioFibonacci.pdb
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.sourcelink.json
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\obj\Debug\net8.0\refint\EjercicioFibonacci.dll
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.pdb
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección06\EjercicioFibonacci\obj\Debug\net8.0\ref\EjercicioFibonacci.dll

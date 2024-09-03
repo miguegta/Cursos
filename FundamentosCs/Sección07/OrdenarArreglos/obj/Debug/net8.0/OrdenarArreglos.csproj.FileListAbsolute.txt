@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\bin\Debug\net8.0\OrdenarArreglos.exe
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\bin\Debug\net8.0\OrdenarArreglos.deps.json
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\bin\Debug\net8.0\OrdenarArreglos.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\bin\Debug\net8.0\OrdenarArreglos.dll
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\bin\Debug\net8.0\OrdenarArreglos.pdb
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\obj\Debug\net8.0\OrdenarArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\obj\Debug\net8.0\OrdenarArreglos.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\obj\Debug\net8.0\OrdenarArreglos.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\obj\Debug\net8.0\OrdenarArreglos.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\obj\Debug\net8.0\OrdenarArreglos.sourcelink.json
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\obj\Debug\net8.0\OrdenarArreglos.dll
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\obj\Debug\net8.0\refint\OrdenarArreglos.dll
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\obj\Debug\net8.0\OrdenarArreglos.pdb
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\obj\Debug\net8.0\OrdenarArreglos.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección07\OrdenarArreglos\obj\Debug\net8.0\ref\OrdenarArreglos.dll

@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección07\ForEach\bin\Debug\net8.0\ForEach.exe
+C:\Users\Migue\source\repos\Sección07\ForEach\bin\Debug\net8.0\ForEach.deps.json
+C:\Users\Migue\source\repos\Sección07\ForEach\bin\Debug\net8.0\ForEach.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección07\ForEach\bin\Debug\net8.0\ForEach.dll
+C:\Users\Migue\source\repos\Sección07\ForEach\bin\Debug\net8.0\ForEach.pdb
+C:\Users\Migue\source\repos\Sección07\ForEach\obj\Debug\net8.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección07\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección07\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección07\ForEach\obj\Debug\net8.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección07\ForEach\obj\Debug\net8.0\ForEach.sourcelink.json
+C:\Users\Migue\source\repos\Sección07\ForEach\obj\Debug\net8.0\ForEach.dll
+C:\Users\Migue\source\repos\Sección07\ForEach\obj\Debug\net8.0\refint\ForEach.dll
+C:\Users\Migue\source\repos\Sección07\ForEach\obj\Debug\net8.0\ForEach.pdb
+C:\Users\Migue\source\repos\Sección07\ForEach\obj\Debug\net8.0\ForEach.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección07\ForEach\obj\Debug\net8.0\ref\ForEach.dll

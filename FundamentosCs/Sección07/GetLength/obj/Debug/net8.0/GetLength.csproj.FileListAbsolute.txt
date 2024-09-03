@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección07\GetLength\bin\Debug\net8.0\GetLength.exe
+C:\Users\Migue\source\repos\Sección07\GetLength\bin\Debug\net8.0\GetLength.deps.json
+C:\Users\Migue\source\repos\Sección07\GetLength\bin\Debug\net8.0\GetLength.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección07\GetLength\bin\Debug\net8.0\GetLength.dll
+C:\Users\Migue\source\repos\Sección07\GetLength\bin\Debug\net8.0\GetLength.pdb
+C:\Users\Migue\source\repos\Sección07\GetLength\obj\Debug\net8.0\GetLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección07\GetLength\obj\Debug\net8.0\GetLength.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección07\GetLength\obj\Debug\net8.0\GetLength.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección07\GetLength\obj\Debug\net8.0\GetLength.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección07\GetLength\obj\Debug\net8.0\GetLength.sourcelink.json
+C:\Users\Migue\source\repos\Sección07\GetLength\obj\Debug\net8.0\GetLength.dll
+C:\Users\Migue\source\repos\Sección07\GetLength\obj\Debug\net8.0\refint\GetLength.dll
+C:\Users\Migue\source\repos\Sección07\GetLength\obj\Debug\net8.0\GetLength.pdb
+C:\Users\Migue\source\repos\Sección07\GetLength\obj\Debug\net8.0\GetLength.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección07\GetLength\obj\Debug\net8.0\ref\GetLength.dll

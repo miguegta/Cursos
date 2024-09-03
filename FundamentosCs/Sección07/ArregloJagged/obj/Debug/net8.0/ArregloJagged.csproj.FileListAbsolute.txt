@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\bin\Debug\net8.0\ArregloJagged.exe
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\bin\Debug\net8.0\ArregloJagged.deps.json
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\bin\Debug\net8.0\ArregloJagged.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\bin\Debug\net8.0\ArregloJagged.dll
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\bin\Debug\net8.0\ArregloJagged.pdb
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\obj\Debug\net8.0\ArregloJagged.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\obj\Debug\net8.0\ArregloJagged.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\obj\Debug\net8.0\ArregloJagged.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\obj\Debug\net8.0\ArregloJagged.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\obj\Debug\net8.0\ArregloJagged.sourcelink.json
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\obj\Debug\net8.0\ArregloJagged.dll
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\obj\Debug\net8.0\refint\ArregloJagged.dll
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\obj\Debug\net8.0\ArregloJagged.pdb
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\obj\Debug\net8.0\ArregloJagged.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección07\ArregloJagged\obj\Debug\net8.0\ref\ArregloJagged.dll

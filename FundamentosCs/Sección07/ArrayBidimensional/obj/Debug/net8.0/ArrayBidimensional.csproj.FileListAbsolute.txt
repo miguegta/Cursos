@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\bin\Debug\net8.0\ArrayBidimensional.exe
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\bin\Debug\net8.0\ArrayBidimensional.deps.json
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\bin\Debug\net8.0\ArrayBidimensional.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\bin\Debug\net8.0\ArrayBidimensional.dll
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\bin\Debug\net8.0\ArrayBidimensional.pdb
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\obj\Debug\net8.0\ArrayBidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\obj\Debug\net8.0\ArrayBidimensional.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\obj\Debug\net8.0\ArrayBidimensional.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\obj\Debug\net8.0\ArrayBidimensional.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\obj\Debug\net8.0\ArrayBidimensional.sourcelink.json
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\obj\Debug\net8.0\ArrayBidimensional.dll
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\obj\Debug\net8.0\refint\ArrayBidimensional.dll
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\obj\Debug\net8.0\ArrayBidimensional.pdb
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\obj\Debug\net8.0\ArrayBidimensional.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección07\ArrayBidimensional\obj\Debug\net8.0\ref\ArrayBidimensional.dll

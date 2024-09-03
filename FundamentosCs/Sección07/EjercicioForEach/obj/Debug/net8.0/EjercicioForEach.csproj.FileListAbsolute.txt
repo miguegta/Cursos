@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\bin\Debug\net8.0\EjercicioForEach.exe
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\bin\Debug\net8.0\EjercicioForEach.deps.json
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\bin\Debug\net8.0\EjercicioForEach.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\bin\Debug\net8.0\EjercicioForEach.dll
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\bin\Debug\net8.0\EjercicioForEach.pdb
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\obj\Debug\net8.0\EjercicioForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\obj\Debug\net8.0\EjercicioForEach.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\obj\Debug\net8.0\EjercicioForEach.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\obj\Debug\net8.0\EjercicioForEach.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\obj\Debug\net8.0\EjercicioForEach.sourcelink.json
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\obj\Debug\net8.0\EjercicioForEach.dll
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\obj\Debug\net8.0\refint\EjercicioForEach.dll
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\obj\Debug\net8.0\EjercicioForEach.pdb
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\obj\Debug\net8.0\EjercicioForEach.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección07\EjercicioForEach\obj\Debug\net8.0\ref\EjercicioForEach.dll

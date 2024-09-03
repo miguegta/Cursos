@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\bin\Debug\net8.0\EjercicioNotas.exe
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\bin\Debug\net8.0\EjercicioNotas.deps.json
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\bin\Debug\net8.0\EjercicioNotas.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\bin\Debug\net8.0\EjercicioNotas.dll
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\bin\Debug\net8.0\EjercicioNotas.pdb
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\obj\Debug\net8.0\EjercicioNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\obj\Debug\net8.0\EjercicioNotas.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\obj\Debug\net8.0\EjercicioNotas.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\obj\Debug\net8.0\EjercicioNotas.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\obj\Debug\net8.0\EjercicioNotas.sourcelink.json
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\obj\Debug\net8.0\EjercicioNotas.dll
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\obj\Debug\net8.0\refint\EjercicioNotas.dll
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\obj\Debug\net8.0\EjercicioNotas.pdb
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\obj\Debug\net8.0\EjercicioNotas.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección07\EjercicioNotas\obj\Debug\net8.0\ref\EjercicioNotas.dll

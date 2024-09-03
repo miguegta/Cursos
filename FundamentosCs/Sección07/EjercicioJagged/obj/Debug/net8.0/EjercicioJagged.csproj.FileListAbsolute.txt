@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\bin\Debug\net8.0\EjercicioJagged.exe
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\bin\Debug\net8.0\EjercicioJagged.deps.json
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\bin\Debug\net8.0\EjercicioJagged.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\bin\Debug\net8.0\EjercicioJagged.dll
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\bin\Debug\net8.0\EjercicioJagged.pdb
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\obj\Debug\net8.0\EjercicioJagged.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\obj\Debug\net8.0\EjercicioJagged.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\obj\Debug\net8.0\EjercicioJagged.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\obj\Debug\net8.0\EjercicioJagged.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\obj\Debug\net8.0\EjercicioJagged.sourcelink.json
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\obj\Debug\net8.0\EjercicioJagged.dll
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\obj\Debug\net8.0\refint\EjercicioJagged.dll
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\obj\Debug\net8.0\EjercicioJagged.pdb
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\obj\Debug\net8.0\EjercicioJagged.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección07\EjercicioJagged\obj\Debug\net8.0\ref\EjercicioJagged.dll

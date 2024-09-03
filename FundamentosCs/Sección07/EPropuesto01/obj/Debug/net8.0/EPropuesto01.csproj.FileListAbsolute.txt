@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\bin\Debug\net8.0\EPropuesto01.exe
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\bin\Debug\net8.0\EPropuesto01.deps.json
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\bin\Debug\net8.0\EPropuesto01.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\bin\Debug\net8.0\EPropuesto01.dll
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\bin\Debug\net8.0\EPropuesto01.pdb
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\obj\Debug\net8.0\EPropuesto01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\obj\Debug\net8.0\EPropuesto01.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\obj\Debug\net8.0\EPropuesto01.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\obj\Debug\net8.0\EPropuesto01.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\obj\Debug\net8.0\EPropuesto01.sourcelink.json
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\obj\Debug\net8.0\EPropuesto01.dll
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\obj\Debug\net8.0\refint\EPropuesto01.dll
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\obj\Debug\net8.0\EPropuesto01.pdb
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\obj\Debug\net8.0\EPropuesto01.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección07\EPropuesto01\obj\Debug\net8.0\ref\EPropuesto01.dll

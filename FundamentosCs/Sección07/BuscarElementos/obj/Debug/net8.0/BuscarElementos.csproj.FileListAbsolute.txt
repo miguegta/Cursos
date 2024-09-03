@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\bin\Debug\net8.0\BuscarElementos.exe
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\bin\Debug\net8.0\BuscarElementos.deps.json
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\bin\Debug\net8.0\BuscarElementos.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\bin\Debug\net8.0\BuscarElementos.dll
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\bin\Debug\net8.0\BuscarElementos.pdb
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\obj\Debug\net8.0\BuscarElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\obj\Debug\net8.0\BuscarElementos.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\obj\Debug\net8.0\BuscarElementos.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\obj\Debug\net8.0\BuscarElementos.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\obj\Debug\net8.0\BuscarElementos.sourcelink.json
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\obj\Debug\net8.0\BuscarElementos.dll
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\obj\Debug\net8.0\refint\BuscarElementos.dll
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\obj\Debug\net8.0\BuscarElementos.pdb
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\obj\Debug\net8.0\BuscarElementos.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección07\BuscarElementos\obj\Debug\net8.0\ref\BuscarElementos.dll

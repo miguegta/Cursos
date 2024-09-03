@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\bin\Debug\net8.0\ArreglosFor.exe
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\bin\Debug\net8.0\ArreglosFor.deps.json
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\bin\Debug\net8.0\ArreglosFor.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\bin\Debug\net8.0\ArreglosFor.dll
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\bin\Debug\net8.0\ArreglosFor.pdb
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\obj\Debug\net8.0\ArreglosFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\obj\Debug\net8.0\ArreglosFor.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\obj\Debug\net8.0\ArreglosFor.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\obj\Debug\net8.0\ArreglosFor.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\obj\Debug\net8.0\ArreglosFor.sourcelink.json
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\obj\Debug\net8.0\ArreglosFor.dll
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\obj\Debug\net8.0\refint\ArreglosFor.dll
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\obj\Debug\net8.0\ArreglosFor.pdb
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\obj\Debug\net8.0\ArreglosFor.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección07\ArreglosFor\obj\Debug\net8.0\ref\ArreglosFor.dll

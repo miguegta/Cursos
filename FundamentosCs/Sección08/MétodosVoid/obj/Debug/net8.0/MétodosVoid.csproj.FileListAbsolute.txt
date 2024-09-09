@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\bin\Debug\net8.0\MétodosVoid.exe
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\bin\Debug\net8.0\MétodosVoid.deps.json
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\bin\Debug\net8.0\MétodosVoid.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\bin\Debug\net8.0\MétodosVoid.dll
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\bin\Debug\net8.0\MétodosVoid.pdb
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\obj\Debug\net8.0\MétodosVoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\obj\Debug\net8.0\MétodosVoid.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\obj\Debug\net8.0\MétodosVoid.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\obj\Debug\net8.0\MétodosVoid.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\obj\Debug\net8.0\MétodosVoid.sourcelink.json
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\obj\Debug\net8.0\MétodosVoid.dll
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\obj\Debug\net8.0\refint\MétodosVoid.dll
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\obj\Debug\net8.0\MétodosVoid.pdb
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\obj\Debug\net8.0\MétodosVoid.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección08\MétodosVoid\obj\Debug\net8.0\ref\MétodosVoid.dll

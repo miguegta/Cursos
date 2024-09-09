@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\bin\Debug\net8.0\MétodosRecursivos.exe
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\bin\Debug\net8.0\MétodosRecursivos.deps.json
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\bin\Debug\net8.0\MétodosRecursivos.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\bin\Debug\net8.0\MétodosRecursivos.dll
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\bin\Debug\net8.0\MétodosRecursivos.pdb
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\obj\Debug\net8.0\MétodosRecursivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\obj\Debug\net8.0\MétodosRecursivos.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\obj\Debug\net8.0\MétodosRecursivos.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\obj\Debug\net8.0\MétodosRecursivos.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\obj\Debug\net8.0\MétodosRecursivos.sourcelink.json
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\obj\Debug\net8.0\MétodosRecursivos.dll
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\obj\Debug\net8.0\refint\MétodosRecursivos.dll
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\obj\Debug\net8.0\MétodosRecursivos.pdb
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\obj\Debug\net8.0\MétodosRecursivos.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección08\MétodosRecursivos\obj\Debug\net8.0\ref\MétodosRecursivos.dll

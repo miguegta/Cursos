@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\bin\Debug\net8.0\MétodosReturn.exe
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\bin\Debug\net8.0\MétodosReturn.deps.json
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\bin\Debug\net8.0\MétodosReturn.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\bin\Debug\net8.0\MétodosReturn.dll
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\bin\Debug\net8.0\MétodosReturn.pdb
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\obj\Debug\net8.0\MétodosReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\obj\Debug\net8.0\MétodosReturn.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\obj\Debug\net8.0\MétodosReturn.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\obj\Debug\net8.0\MétodosReturn.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\obj\Debug\net8.0\MétodosReturn.sourcelink.json
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\obj\Debug\net8.0\MétodosReturn.dll
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\obj\Debug\net8.0\refint\MétodosReturn.dll
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\obj\Debug\net8.0\MétodosReturn.pdb
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\obj\Debug\net8.0\MétodosReturn.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección08\MétodosReturn\obj\Debug\net8.0\ref\MétodosReturn.dll

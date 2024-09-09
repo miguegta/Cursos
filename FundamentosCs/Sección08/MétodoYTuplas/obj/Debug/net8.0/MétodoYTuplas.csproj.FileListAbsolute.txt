@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\bin\Debug\net8.0\MétodoYTuplas.exe
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\bin\Debug\net8.0\MétodoYTuplas.deps.json
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\bin\Debug\net8.0\MétodoYTuplas.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\bin\Debug\net8.0\MétodoYTuplas.dll
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\bin\Debug\net8.0\MétodoYTuplas.pdb
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\obj\Debug\net8.0\MétodoYTuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\obj\Debug\net8.0\MétodoYTuplas.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\obj\Debug\net8.0\MétodoYTuplas.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\obj\Debug\net8.0\MétodoYTuplas.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\obj\Debug\net8.0\MétodoYTuplas.sourcelink.json
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\obj\Debug\net8.0\MétodoYTuplas.dll
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\obj\Debug\net8.0\refint\MétodoYTuplas.dll
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\obj\Debug\net8.0\MétodoYTuplas.pdb
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\obj\Debug\net8.0\MétodoYTuplas.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección08\MétodoYTuplas\obj\Debug\net8.0\ref\MétodoYTuplas.dll

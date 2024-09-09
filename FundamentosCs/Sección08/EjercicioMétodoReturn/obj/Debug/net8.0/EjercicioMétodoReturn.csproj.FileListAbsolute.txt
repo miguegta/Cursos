@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\bin\Debug\net8.0\EjercicioMétodoReturn.exe
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\bin\Debug\net8.0\EjercicioMétodoReturn.deps.json
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\bin\Debug\net8.0\EjercicioMétodoReturn.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\bin\Debug\net8.0\EjercicioMétodoReturn.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\bin\Debug\net8.0\EjercicioMétodoReturn.pdb
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\obj\Debug\net8.0\EjercicioMétodoReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\obj\Debug\net8.0\EjercicioMétodoReturn.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\obj\Debug\net8.0\EjercicioMétodoReturn.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\obj\Debug\net8.0\EjercicioMétodoReturn.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\obj\Debug\net8.0\EjercicioMétodoReturn.sourcelink.json
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\obj\Debug\net8.0\EjercicioMétodoReturn.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\obj\Debug\net8.0\refint\EjercicioMétodoReturn.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\obj\Debug\net8.0\EjercicioMétodoReturn.pdb
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\obj\Debug\net8.0\EjercicioMétodoReturn.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoReturn\obj\Debug\net8.0\ref\EjercicioMétodoReturn.dll

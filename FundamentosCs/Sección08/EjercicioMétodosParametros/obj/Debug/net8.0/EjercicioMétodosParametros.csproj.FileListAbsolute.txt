@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\bin\Debug\net8.0\EjercicioMétodosParametros.exe
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\bin\Debug\net8.0\EjercicioMétodosParametros.deps.json
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\bin\Debug\net8.0\EjercicioMétodosParametros.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\bin\Debug\net8.0\EjercicioMétodosParametros.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\bin\Debug\net8.0\EjercicioMétodosParametros.pdb
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\obj\Debug\net8.0\EjercicioMétodosParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\obj\Debug\net8.0\EjercicioMétodosParametros.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\obj\Debug\net8.0\EjercicioMétodosParametros.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\obj\Debug\net8.0\EjercicioMétodosParametros.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\obj\Debug\net8.0\EjercicioMétodosParametros.sourcelink.json
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\obj\Debug\net8.0\EjercicioMétodosParametros.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\obj\Debug\net8.0\refint\EjercicioMétodosParametros.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\obj\Debug\net8.0\EjercicioMétodosParametros.pdb
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\obj\Debug\net8.0\EjercicioMétodosParametros.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodosParametros\obj\Debug\net8.0\ref\EjercicioMétodosParametros.dll

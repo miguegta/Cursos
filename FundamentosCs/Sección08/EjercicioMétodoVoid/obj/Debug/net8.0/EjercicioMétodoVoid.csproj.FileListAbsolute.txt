@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\bin\Debug\net8.0\EjercicioMétodoVoid.exe
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\bin\Debug\net8.0\EjercicioMétodoVoid.deps.json
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\bin\Debug\net8.0\EjercicioMétodoVoid.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\bin\Debug\net8.0\EjercicioMétodoVoid.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\bin\Debug\net8.0\EjercicioMétodoVoid.pdb
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\obj\Debug\net8.0\EjercicioMétodoVoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\obj\Debug\net8.0\EjercicioMétodoVoid.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\obj\Debug\net8.0\EjercicioMétodoVoid.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\obj\Debug\net8.0\EjercicioMétodoVoid.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\obj\Debug\net8.0\EjercicioMétodoVoid.sourcelink.json
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\obj\Debug\net8.0\EjercicioMétodoVoid.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\obj\Debug\net8.0\refint\EjercicioMétodoVoid.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\obj\Debug\net8.0\EjercicioMétodoVoid.pdb
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\obj\Debug\net8.0\EjercicioMétodoVoid.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoid\obj\Debug\net8.0\ref\EjercicioMétodoVoid.dll

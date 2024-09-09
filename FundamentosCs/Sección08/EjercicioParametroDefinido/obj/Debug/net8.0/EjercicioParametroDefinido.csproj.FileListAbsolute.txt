@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\bin\Debug\net8.0\EjercicioParametroDefinido.exe
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\bin\Debug\net8.0\EjercicioParametroDefinido.deps.json
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\bin\Debug\net8.0\EjercicioParametroDefinido.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\bin\Debug\net8.0\EjercicioParametroDefinido.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\bin\Debug\net8.0\EjercicioParametroDefinido.pdb
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\obj\Debug\net8.0\EjercicioParametroDefinido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\obj\Debug\net8.0\EjercicioParametroDefinido.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\obj\Debug\net8.0\EjercicioParametroDefinido.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\obj\Debug\net8.0\EjercicioParametroDefinido.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\obj\Debug\net8.0\EjercicioParametroDefinido.sourcelink.json
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\obj\Debug\net8.0\EjercicioParametroDefinido.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\obj\Debug\net8.0\refint\EjercicioParametroDefinido.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\obj\Debug\net8.0\EjercicioParametroDefinido.pdb
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\obj\Debug\net8.0\EjercicioParametroDefinido.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioParametroDefinido\obj\Debug\net8.0\ref\EjercicioParametroDefinido.dll

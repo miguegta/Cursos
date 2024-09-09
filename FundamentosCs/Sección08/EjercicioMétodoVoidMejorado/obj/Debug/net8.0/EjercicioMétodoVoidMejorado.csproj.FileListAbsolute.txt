@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\bin\Debug\net8.0\EjercicioMétodoVoidMejorado.exe
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\bin\Debug\net8.0\EjercicioMétodoVoidMejorado.deps.json
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\bin\Debug\net8.0\EjercicioMétodoVoidMejorado.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\bin\Debug\net8.0\EjercicioMétodoVoidMejorado.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\bin\Debug\net8.0\EjercicioMétodoVoidMejorado.pdb
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\obj\Debug\net8.0\EjercicioMétodoVoidMejorado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\obj\Debug\net8.0\EjercicioMétodoVoidMejorado.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\obj\Debug\net8.0\EjercicioMétodoVoidMejorado.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\obj\Debug\net8.0\EjercicioMétodoVoidMejorado.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\obj\Debug\net8.0\EjercicioMétodoVoidMejorado.sourcelink.json
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\obj\Debug\net8.0\EjercicioMétodoVoidMejorado.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\obj\Debug\net8.0\refint\EjercicioMétodoVoidMejorado.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\obj\Debug\net8.0\EjercicioMétodoVoidMejorado.pdb
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\obj\Debug\net8.0\EjercicioMétodoVoidMejorado.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioMétodoVoidMejorado\obj\Debug\net8.0\ref\EjercicioMétodoVoidMejorado.dll

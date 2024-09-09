@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\bin\Debug\net8.0\EjercicioTuplas.exe
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\bin\Debug\net8.0\EjercicioTuplas.deps.json
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\bin\Debug\net8.0\EjercicioTuplas.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\bin\Debug\net8.0\EjercicioTuplas.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\bin\Debug\net8.0\EjercicioTuplas.pdb
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\obj\Debug\net8.0\EjercicioTuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\obj\Debug\net8.0\EjercicioTuplas.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\obj\Debug\net8.0\EjercicioTuplas.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\obj\Debug\net8.0\EjercicioTuplas.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\obj\Debug\net8.0\EjercicioTuplas.sourcelink.json
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\obj\Debug\net8.0\EjercicioTuplas.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\obj\Debug\net8.0\refint\EjercicioTuplas.dll
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\obj\Debug\net8.0\EjercicioTuplas.pdb
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\obj\Debug\net8.0\EjercicioTuplas.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección08\EjercicioTuplas\obj\Debug\net8.0\ref\EjercicioTuplas.dll

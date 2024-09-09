@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\bin\Debug\net8.0\MétodoRecursividadFactorial.exe
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\bin\Debug\net8.0\MétodoRecursividadFactorial.deps.json
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\bin\Debug\net8.0\MétodoRecursividadFactorial.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\bin\Debug\net8.0\MétodoRecursividadFactorial.dll
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\bin\Debug\net8.0\MétodoRecursividadFactorial.pdb
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\obj\Debug\net8.0\MétodoRecursividadFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\obj\Debug\net8.0\MétodoRecursividadFactorial.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\obj\Debug\net8.0\MétodoRecursividadFactorial.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\obj\Debug\net8.0\MétodoRecursividadFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\obj\Debug\net8.0\MétodoRecursividadFactorial.sourcelink.json
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\obj\Debug\net8.0\MétodoRecursividadFactorial.dll
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\obj\Debug\net8.0\refint\MétodoRecursividadFactorial.dll
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\obj\Debug\net8.0\MétodoRecursividadFactorial.pdb
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\obj\Debug\net8.0\MétodoRecursividadFactorial.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección08\MétodoRecursividadFactorial\obj\Debug\net8.0\ref\MétodoRecursividadFactorial.dll

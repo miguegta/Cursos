@@ -1,0 +1,15 @@
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\bin\Debug\net8.0\MétodosConParametros.exe
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\bin\Debug\net8.0\MétodosConParametros.deps.json
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\bin\Debug\net8.0\MétodosConParametros.runtimeconfig.json
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\bin\Debug\net8.0\MétodosConParametros.dll
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\bin\Debug\net8.0\MétodosConParametros.pdb
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\obj\Debug\net8.0\MétodosConParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\obj\Debug\net8.0\MétodosConParametros.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\obj\Debug\net8.0\MétodosConParametros.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\obj\Debug\net8.0\MétodosConParametros.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\obj\Debug\net8.0\MétodosConParametros.sourcelink.json
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\obj\Debug\net8.0\MétodosConParametros.dll
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\obj\Debug\net8.0\refint\MétodosConParametros.dll
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\obj\Debug\net8.0\MétodosConParametros.pdb
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\obj\Debug\net8.0\MétodosConParametros.genruntimeconfig.cache
+C:\Users\Migue\source\repos\Sección08\MétodosConParametros\obj\Debug\net8.0\ref\MétodosConParametros.dll
